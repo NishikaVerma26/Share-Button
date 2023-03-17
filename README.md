@@ -1,9 +1,27 @@
-# Share-Button
- We learn how to create a Share Button. We use HTML and CSS  for this Share Button.
-Creating a Share Button using HTML and CSS involves creating an HTML button element and styling it with CSS to make it visually appealing. The button can be linked to a JavaScript function that will execute when the user clicks on it.
+## Project title
 
-To implement the share functionality, the JavaScript function can use the built-in browser APIs such as the "navigator.share()" method to open a native sharing dialogue box. This box allows the user to share the current page or a specific URL to different social media platforms or messaging apps.
+**_Circular Share Button_**
 
-The CSS styling can be used to customize the button's appearance, such as setting the font, background color, and adding hover effects. The styling can help make the button more prominent and draw the user's attention to it.
+## project description
 
-Overall, creating a Share Button using HTML and CSS is a simple and effective way to add social sharing functionality to a website or web application.
+This project is a share button made with HTML, CSS, and JS that provides multiple options for sharing. The button allows users to share content on various social media platforms such as Facebook, Twitter, and among others.
+
+### Features
+
+- The button has an animation effect that makes it more appealing to users.
+- Incorporating a sound effect into the button enhances its attractiveness and engages users
+- The button provides different options for sharing, including Facebook, Twitter, LinkedIn among others.
+
+## 🔗 Links
+
+#### Creator
+
+[![nishika-verma](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishika-verma-6234121b4/)
+
+#### Contributor
+
+[![Zeeshan Mukhtar](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshanmukhtar1/)
+
+### Output
+
+![Output](Output.png)
